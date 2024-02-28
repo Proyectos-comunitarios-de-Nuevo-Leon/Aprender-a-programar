@@ -1,4 +1,3 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# READ ME
+Soy un programador que actualmente vive en Monterrey, buscare estar buscando problemas que la gente del estado tenga. Estare leyendo correos de ustedes los que visitan para que me comenten que podría hacer siguiente
+Busco que las soluciones puedan ser dadas y mejoradas en este repositorio poder crear programas de impacto en la sociedad
